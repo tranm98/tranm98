@@ -12,7 +12,7 @@ I enjoy figuring out how things work, troubleshooting problems, and building pra
 - Cloud Computing
 - Microsoft Azure
 
-## 🛠️ Technologies I've Worked With
+## 🛠️ Technologies  & Tools
 
 **Languages**
 - Python
@@ -34,13 +34,13 @@ I enjoy figuring out how things work, troubleshooting problems, and building pra
 
 ## 🚀 Projects
 
-### 📦 Daily Listing Tracker
+### 📦 [Daily Listing Tracker](https://github.com/tranm98/Daily_Listing_Tracker)
 A Python project inspired by a real workplace need to track daily inventory listings and make weekly reporting easier.
 
-### 🧮 Margin Calculator
+### 🧮 [Margin Calculator](https://github.com/tranm98/Margin_Calcultor)
 A Python calculator that helps evaluate resale margins using item cost, offers, and platform fees.
 
-### 🚀 Space Shooter
+### 🚀 [Space Shooter](https://github.com/tranm98/space_shooter.py)
 A two-player space shooter game built with Python and Pygame.
 
 ## 🎯 What I'm Working Toward
