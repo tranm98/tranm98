@@ -1,4 +1,4 @@
-🌱 01 // WHO AM I?
+🌱 WHO AM I?
 
 Hi, I'm Mai (like the word "my") 🌸 — a developer by education, problem-solver by nature, and aspiring IT & Cloud professional.
 
