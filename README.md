@@ -11,6 +11,7 @@ I enjoy figuring out how things work, troubleshooting problems, and building pra
 - SQL & Databases
 - Cloud Computing
 - Microsoft Azure
+- Cyber Security
 
 ## 🛠️ Technologies  & Tools
 
